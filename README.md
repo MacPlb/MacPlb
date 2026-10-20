@@ -1,8 +1,10 @@
-<img src="logo.png" alt="MacPlb logo" width="88" align="right">
+<p align="center">
+  <img src="logo.png" alt="MacPlb logo" width="96">
+</p>
 
-# Maciej Pałubicki
+<h1 align="center">Maciej Pałubicki</h1>
 
-**.NET Software Engineer** · Koszalin, Poland · currently at i4B
+<p align="center"><strong>.NET Software Engineer</strong> · Koszalin, Poland · currently at i4B</p>
 
 I design and build backend systems in C# and .NET: ASP.NET Core APIs, gRPC and
 message-driven microservices, SQL Server and PostgreSQL databases, and the migration of
