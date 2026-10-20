@@ -20,6 +20,20 @@ learning Blazor.
 
 I speak English and German and I'm learning Dutch.
 
+## GitHub activity
+
+<a href="https://macplb.github.io/#github"><img src="https://macplb.github.io/github/stats.svg" alt="GitHub stats: public repositories, contributions in the last year, longest streak and year joined" width="100%"></a>
+
+<a href="https://macplb.github.io/#github"><img src="https://macplb.github.io/github/contributions.svg" alt="Contribution calendar for the last year" width="100%"></a>
+
+<details>
+<summary><strong>Repositories by primary language</strong></summary>
+<br>
+<a href="https://macplb.github.io/#github"><img src="https://macplb.github.io/github/languages.svg" alt="Bar chart of public repositories by primary language" width="100%"></a>
+</details>
+
+<sub>Generated daily by my <a href="https://github.com/MacPlb/macplb.github.io">site generator</a>; the <a href="https://macplb.github.io/#github">website version</a> is interactive.</sub>
+
 ## Projects
 
 - [**Vertical Tabs**](https://github.com/MacPlb/Vertical-Tabs): open-files navigator for JetBrains IDEs that groups files by IDE module or .NET project
@@ -34,4 +48,9 @@ I speak English and German and I'm learning Dutch.
 - LinkedIn: [Maciej Pałubicki](https://pl.linkedin.com/in/maciej-pa%C5%82ubicki-b83456253)
 - Email: [macplb@proton.me](mailto:macplb@proton.me)
 
-Outside of work I collect vinyl records and mechanical watches, play retro games and make pixel art.
+<details>
+<summary><strong>Outside of work</strong></summary>
+<br>
+I collect vinyl records and mechanical watches, play retro games and make pixel art.
+Photos are in my <a href="https://macplb.github.io/collection.html">collection</a>.
+</details>
