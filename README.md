@@ -2,18 +2,19 @@
 
 # Maciej Pałubicki
 
-.NET backend developer at i4B in Koszalin, Poland.
+**.NET Software Engineer** · Koszalin, Poland · currently at i4B
 
-I build backend services in C# and .NET: ASP.NET Core APIs, gRPC and message-driven
-microservices, SQL Server and PostgreSQL databases, and migrations of legacy systems to
-modern .NET. About three years of commercial .NET experience; currently learning Blazor.
+I design and build backend systems in C# and .NET: ASP.NET Core APIs, gRPC and
+message-driven microservices, SQL Server and PostgreSQL databases, and the migration of
+legacy systems to modern .NET. Three years of commercial .NET experience; currently
+learning Blazor.
 
 - **Core:** C#, .NET, ASP.NET Core, gRPC, SignalR, Entity Framework Core, Dapper, MassTransit
 - **Data:** SQL Server, PostgreSQL, Redis
 - **Architecture:** Clean Architecture, DDD, CQRS, microservices
 - **Testing:** xUnit, NUnit, integration tests with Testcontainers
 - **Cloud and tools:** AWS, Azure, Docker, Terraform, CI/CD, NixOS
-- **Also:** Python, TypeScript, Xbase++ (legacy systems)
+- **Also:** Python, TypeScript
 
 I speak English and German and I'm learning Dutch.
 
